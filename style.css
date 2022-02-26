@@ -1,0 +1,30 @@
+.sunny {
+  font-size: 50px;
+  float: left;
+}
+.miami {
+  width: 300px;
+  top: 15%;
+  right: 0;
+  display: block;
+  margin: 0 auto;
+}
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+.credit {
+  text-align: right;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
